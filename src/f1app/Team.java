@@ -7,8 +7,10 @@ package f1app;
 /**
  *
  * @author Kyle Haines - 2025
+ * Development Branch - not for production
+ * Used for testing and development only
  */
-// delete this comment by reverting
+
 public class Team {
     private String teamName;
     private String teamHome;

@@ -6,7 +6,9 @@ package f1app;
 
 /**
  *
- * @author thepr
+ * @author Kyle Haines - 2025
+ * Development Branch - not for production
+ * Used for testing and development only
  */
 public class F1App {
 
