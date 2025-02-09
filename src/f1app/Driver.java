@@ -6,8 +6,7 @@ package f1app;
 
 /**
  *
- * @author thepr
- */
+ * @author Kyle Haines - 2025
 public class Driver {
     private String driverFirstName;
     private String driverLastName;
