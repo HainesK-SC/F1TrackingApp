@@ -13,6 +13,7 @@ public class Team {
     private String teamName;
     private String teamHome;
     private Driver [] drivers = new Driver[2];
+    public String deleteMe;
     
     public String getTeamName(){
         return this.teamName;
